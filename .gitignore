@@ -1,0 +1,30 @@
+# Streamlit - CRITICAL: Do not commit secrets
+.streamlit/secrets.toml
+.streamlit/secrets.json
+**/*.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log

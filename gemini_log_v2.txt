@@ -1,0 +1,6 @@
+Loaded key: AIzaS...xy5L8
+
+Testing generation with 'gemini-2.5-flash'...
+Response: Hello! Yes, you could say I "work."
+
+I am an AI, a large language model, developed by Google. My purpose is to process information, understand and generate human-like text, answer questions, provide information, and assist users with a wide range of tasks. So, while I don't have a job in the human sense (no salary, no coffee breaks!), I am continuously performing my function to be helpful and informative.
